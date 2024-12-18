@@ -9,6 +9,9 @@ Welcome to the TikTakToe project! This is a simple web-based implementation of t
 
 You can visit the project homepage [here](https://teamco.github.io/tiktaktoe/).
 
+<img width="382" alt="Screenshot 2024-12-18 at 22 21 43" src="https://github.com/user-attachments/assets/c77392a3-b511-4bf6-ade1-9e3e7fc7d255" />
+
+
 ## Project Details
 
 - **Name**: TikTakToe
